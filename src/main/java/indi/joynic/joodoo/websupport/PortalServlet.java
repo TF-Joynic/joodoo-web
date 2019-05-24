@@ -1,6 +1,6 @@
-package indi.joynic.joodoo.web;
+package indi.joynic.joodoo.websupport;
 
-import indi.joynic.joodoo.web.http.UrlUtil;
+import indi.joynic.joodoo.websupport.http.UrlUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

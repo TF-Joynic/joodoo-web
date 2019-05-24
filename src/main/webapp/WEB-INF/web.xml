@@ -34,7 +34,7 @@
 
     <servlet>
         <servlet-name>PortalServlet</servlet-name>
-        <servlet-class>indi.joynic.joodoo.web.PortalServlet</servlet-class>
+        <servlet-class>indi.joynic.joodoo.websupport.PortalServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
